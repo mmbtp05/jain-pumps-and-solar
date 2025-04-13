@@ -1,7 +1,6 @@
 export const pumpsData = {
     category: "Pumps",
     breadcrumbs: [
-        { name: "Products", href: "/products" },
         { name: "Pumps" }
     ],
     products: [

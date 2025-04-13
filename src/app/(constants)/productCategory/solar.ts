@@ -1,7 +1,6 @@
 export const solarData = {
     category: "Solar Solutions",
     breadcrumbs: [
-        { name: "Products", href: "/products" },
         { name: "Solar Solutions" }
     ],
     products: [

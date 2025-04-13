@@ -1,7 +1,7 @@
 'use client'
 
 import React from "react";
-import { pumpsData } from "@/app/(constants)/pumps";
+import { pumpsData } from "@/app/(constants)/productCategory/pumps";
 import ProductLayout from "../layout";
 
 const PumpsPage = () => {
